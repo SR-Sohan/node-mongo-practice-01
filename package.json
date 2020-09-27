@@ -1,0 +1,14 @@
+{
+  "name": "mongo-practic-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SR Sohan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
